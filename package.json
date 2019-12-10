@@ -1,0 +1,24 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poonammehra10/react-memory-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poonammehra10/react-memory-game/issues"
+  },
+  "homepage": "https://github.com/poonammehra10/react-memory-game#readme",
+  "dependencies": {
+    "package-lock.json": "^1.0.0",
+    "yarn.lock": "0.0.1-security"
+  }
+}
